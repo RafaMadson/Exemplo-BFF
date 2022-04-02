@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VU4fHytO/spOHB5V1tbKDIiibKGXAhZP5P2CDKVUHLeBfW/As8YPbrqosBlIjjtDkqxeF9EThlA/XbR3W6S7eQ==",
+  "success": true,
+  "projectFilePath": "C:\\docker\\bff\\MSPedido\\MSPedido.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

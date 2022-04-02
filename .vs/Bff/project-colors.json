@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0859b45-d53e-4604-a09d-d6b0ca98e72e": {
+      "ProjectGuid": "a0859b45-d53e-4604-a09d-d6b0ca98e72e",
+      "DisplayName": "BFF",
+      "ColorIndex": 0
+    },
+    "187ca2a0-8149-4f98-b52e-2b86207f8a63": {
+      "ProjectGuid": "187ca2a0-8149-4f98-b52e-2b86207f8a63",
+      "DisplayName": "MSCliente",
+      "ColorIndex": 1
+    },
+    "e5c68ced-6e25-43d3-b331-43e141e0a533": {
+      "ProjectGuid": "e5c68ced-6e25-43d3-b331-43e141e0a533",
+      "DisplayName": "MSPedido",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
